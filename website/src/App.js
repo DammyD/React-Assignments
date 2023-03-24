@@ -1,0 +1,38 @@
+function App() {
+  return (
+    <>
+     <header>
+     <h1>Welcome to my website!</h1>
+     <nav>
+       <ul>
+         <li><a href="home">Home</a></li>
+         <li><a href="about">About</a></li>
+         <li><a href="services">Services</a></li>
+         <li><a href="contact">Contact</a></li>
+       </ul>
+     </nav>
+   </header>
+   <main>
+     <section>
+       <h2>About Us</h2>
+       <p>
+         We are a small team of web developers based in the United States. We
+         specialise in creating modern and responsive websites for businesses
+         and individuals.
+       </p>
+     </section>
+     <section>
+       <h2>Our Services</h2>
+       <ul>
+         <li>Web Design</li>
+         <li>Web Development</li>
+         <li>E-commerce Solutions</li>
+         <li>Search Engine Optimization (SEO)</li>
+       </ul>
+     </section>
+   </main>
+    </>
+  )
+}
+
+export default App;
