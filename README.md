@@ -15,8 +15,9 @@
 - Dedicated tools for easy debugging
 
 # What is the name of the Software Engineer that created React? Also, which company owns React?
-His name is `Jordan Walke`
-`Meta` owns React
+
+**Jordan Walke**
+**Meta**
 
 # What are the notable differences between HTML & JSX? Give at least 3 of them
 - All tags in JSX are self-closing
